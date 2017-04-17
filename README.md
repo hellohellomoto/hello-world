@@ -1,3 +1,3 @@
 # hello-world
 First repository
-hobbyist
+I'm a hobbyist
